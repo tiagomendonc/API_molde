@@ -3,7 +3,7 @@
         "process.env.MYSQL_USER": "root",
         "process.env.MYSQL_PASSWORD" : "Osmenlli600.",
         "process.env.MYSQL_DATABASE" : "ecommerce",
-        "process.env.MYSQL_HOST" : "Local instance MySQL80",
+        "process.env.MYSQL_HOST" : "localhost",
         "process.env.MYSQL_PORT" : 3306
     }
 }
